@@ -1,1 +1,1 @@
-# RetosPlatziProgramaci-n
+Retos de programación de platzi. Estos retos son dados por Terranigma.
